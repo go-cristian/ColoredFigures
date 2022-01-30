@@ -12,3 +12,6 @@ Factory it's being used to create Colored figures, as long as figures and colors
 # Adding a new Color
 For adding `Green` as color, a class extending `FigureColor` must be added.
 By adding `GreenColor` several colored figured must be created to support the creation of this shapes (`GreenLine`, `GreenSquare`, etc).
+
+# Demo
+<img src="images/demo.gif" width="128"/>
